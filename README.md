@@ -8,7 +8,7 @@
 2. **Apply the Patch**:
     - Download [this patch](https://github.com/dubcat/Path_Of_Building_Community_3.22_Quick_Fix/archive/refs/heads/main.zip) and extract it.
     - Copy `GameVersions.lua` + `TreeData` folder from this patch.
-    - Paste into the "Path of Building Community" folder, overwriting existing files.
+    - Paste them into the "Path of Building Community" folder, overwrite existing files.
 
 3. 🎉 **Done!** You're all set to use the updated version.
 
